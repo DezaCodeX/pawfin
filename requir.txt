@@ -1,0 +1,7 @@
+dj-database-url
+Django
+psycopg
+psycopg2-binary
+supabase
+PyJWT
+python-dotenv
